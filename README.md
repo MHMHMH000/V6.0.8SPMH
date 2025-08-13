@@ -8,5 +8,3 @@ MHc8a9c215-
 MHcf286a9a-
 #FARU
 MHe9ddaa25-
-#GROS
-MH2af795c-
